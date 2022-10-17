@@ -1,7 +1,7 @@
 ## Hey There! 👋
 My name is Enreina.
 
-- 💻 I'm a software engineer specializing in web development. I'm slowly getting back into a coding, after a year of career break. 
+- 💻 I'm a software engineer specializing in web development. I'm slowly getting back into coding, after a year of career break. 
 - 🎄 I'm currently learning Next.js and TypeScript through building a personal passion project: [Ichi Bun Zutsu](https://github.com/enreina/ichibunzutsu).
 - ⽂ I'm interested in learning East Asian languages -- currently [studying Japanese](https://enreina.com/tag/learning-japanese/).
 - 🎹 I'm an aspiring piano arranger -- I make [piano covers](https://www.youtube.com/channel/UCIJtHGMH_M_uBbSCy3euYcg) and [arrangements](https://musescore.com/user/53154402).
